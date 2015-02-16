@@ -1,1 +1,1 @@
-# poserseed
+I have converted my original poserseed Python script to use an xml parsing package, and finally have it at a point I would like to make it available here. I will also post a stand alone script that does not depend on Poser and can be used to add objects and materials from obj and mtl files to an appleseed file.
